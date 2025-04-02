@@ -1,0 +1,604 @@
+PLAN DE IMPLEMENTACIÓN DE SOFTWARE LIBRE
+Y ESTÁNDARES ABIERTOS
+
+
+
+LA PAZ – BOLIVIA ENERO, 2025 
+ 
+PRESENTACIÓN
+
+La priorización del uso de software libre y estándares abiertos, establecidos en Bolivia mediante la Ley N°
+164,  de  8  de  agosto  de  2011,  General  de  Telecomunicaciones,  Tecnologías  de  Información  y Comunicación y el Decreto Supremo N° 1793, de 13 de noviembre de 2013, es el pilar de una estrategia integral orientada a fortalecer la soberanía tecnológica. Esta visión se alinea con los principios de la Constitución Política del Estado y la Agenda Patriótica del Bicentenario 2025, que priorizan la autonomía y la soberanía tecnológica.
+
+La adopción de software libre representa un avance decisivo hacia la reducción de la dependencia tecnológica, promoviendo la creación de capacidades locales en el desarrollo y manejo de tecnología. Esta transición  fomenta  el  acceso  abierto  al  conocimiento  y  los  recursos  tecnológicos,  impulsando  la innovación y la inclusión digital.
+
+El plan establece una base para la colaboración y coordinación para la implementación y desarrollo del software libre y los estándares abiertos en Bolivia, para lo cual incluye mecanismos de seguimiento y evaluación del cumplimiento de los objetivos, estableciendo cronogramas de avance.
+
+La adopción del software libre y los estándares abiertos es un componente estratégico para la soberanía tecnológica de Bolivia.
+ 
+CAPÍTULO I. MARCO NORMATIVO
+
+
+
+a)      Constitución Política del Estado, de febrero de 2009.
+
+b)      Ley Nº 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de
+Información y Comunicación.
+
+c)      Ley N° 650, de 15 de enero de 2015.
+
+d)	Ley Nº 777, de 21 de enero de 2016, del Sistema de Planificación Integral del Estado – SPIE.
+
+e)	Decreto Supremo N° 1391, de 24 de octubre de 2012, que aprueba el Reglamento General a la Ley Nº 164, de 8 de agosto de 2011, Ley General de Telecomunicaciones, Tecnologías de Información y Comunicación.
+
+f)	Decreto Supremo N° 1793, de 13 de noviembre de 2013, que aprueba el Reglamento a la Ley N° 164, de 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación.
+
+g)      Decreto Supremo N° 2514, de 9 de septiembre de 2015, de creación de la Agencia de
+Gobierno Electrónico y Tecnologías de la Información y Comunicación – AGETIC.
+
+h)	Decreto Supremo N° 3251, de 12 de julio de 2017, que aprueba el Plan de Implementación de Gobierno Electrónico y el Plan de Implementación de Software Libre y Estándares Abiertos.
+
+i)	Decreto Supremo N° 5309, de 8 de enero de 2025, que establece el plazo para que todas las entidades públicas concluyan el proceso de migración de los sistemas a Software Libre y Estándares Abiertos en el marco de la normativa vigente. 
+CAPÍTULO II. MARCO CONCEPTUAL
+
+2.1 SOFTWARE LIBRE
+
+El software libre se fundamenta en una filosofía que busca mejorar la vida de las personas al orientar el desarrollo tecnológico hacia la igualdad y el bienestar común. Esta filosofía promueve la cooperación y permite que todos disfruten libremente de los avances tecnológicos, siempre respetando los derechos de los demás, promoviendo la libertad de usar, aprender y compartir tecnología y conocimiento.
+
+2.2 ESTÁNDARES ABIERTOS
+
+Los  estándares  abiertos  son  la  base  para  normalizar  la  comunicación,  el  intercambio  de  datos  e información entre las entidades públicas1  y la ciudadanía, permitiendo que el Estado tenga un control soberano sobre las operaciones de las aplicaciones informáticas que utiliza, así como la oportunidad de acceder al conocimiento y participar en su desarrollo.
+
+2.3 GOBIERNO ELECTRÓNICO
+
+El gobierno electrónico es el uso estratégico de las tecnologías de la información y comunicación (TIC) para optimizar la gestión pública, ofrecer servicios accesibles y transparentes a la ciudadanía; vinculado al software libre, adquiere un enfoque soberano e inclusivo, promoviendo la autonomía tecnológica, la transparencia  a  través  del  acceso  abierto  al  código  fuente,  y  la  reducción  de  costos  al  eliminar dependencias de licencias propietarias.
+
+2.4 SOBERANÍA TECNOLÓGICA
+
+Es la posesión del control por parte de una nación y/o estado sobre la tecnología que utiliza. Se caracteriza por el acceso al conocimiento sobre el contenido y los procedimientos, procesos y técnicas necesarios para el desarrollo y uso de dicha tecnología, el mismo que le permite auditar, mejorar, desarrollar, modificar y ajustar a sus necesidades específicas la misma, sin la intervención ni autorización específica de terceros; de modo que se garantice la total independencia en cuanto al control de la tecnología utilizada por dicha nación o Estado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Entidades públicas: Órgano Ejecutivo, a través de los Ministerios, entidades e instituciones bajo dependencia y tuición; y empresas públicas. 
+CAPÍTULO III. DIRECTRICES ESTRATÉGICAS
+
+3.1 OBJETIVO
+
+Establecer los mecanismos para concluir la implementación de software libre y estándares abiertos en las entidades públicas.
+
+3.2 LINEAMIENTOS DEL PLAN
+
+El Artículo  21  del  Reglamento  para  el  Desarrollo  de  Tecnologías  de  Información  y  Comunicación aprobado por el Decreto Supremo N° 1793, establece que el Plan de Implementación de Software Libre y Estándares Abiertos debe considerar los siguientes lineamientos:
+
+a)	Posibilitar la implementación, uso y desarrollo de Software Libre y Estándares Abiertos en las plataformas informáticas, aplicaciones, ordenadores, redes informáticas, intercambio de datos y publicación de contenidos digitales de los órganos del Estado Plurinacional de Bolivia;
+
+b)      Promover el avance del proceso de descolonización del conocimiento;
+
+c)	Promover la formación, especialización y capacitación de recursos humanos en software libre y estándares abiertos en las entidades públicas;
+
+d)	Promover  mecanismos  de  cooperación  internacional  en  materia  de  software  libre  y estándares abiertos, en respeto de la soberanía y seguridad informática del Estado Plurinacional de Bolivia;
+
+e)	Establecer  los  mecanismos  de  seguimiento  y  control  que  garanticen  la  aplicación  del presente Reglamento y el Plan de Implementación de Software Libre y Estándares Abiertos;
+
+f)	Promover el desarrollo de software libre en los sectores público y privado, favoreciendo a los profesionales y empresas bolivianas;
+
+g)	Establecer las condiciones y jerarquización para fortalecer las unidades de sistemas de las entidades públicas, de modo que puedan cumplir con los objetivos del Reglamento. 
+CAPÍTULO IV. DIRECTRICES TÉCNICAS EN EL MARCO DE LA SOBERANÍA TECNOLÓGICA
+
+4.1 ESTÁNDARES PARA EL DESARROLLO
+
+El desarrollo y adquisición de software en el Estado deben cumplir con los estándares abiertos definidos en el Catálogo de Estándares Abiertos aprobados por el Consejo para las Tecnologías de Información y Comunicación del Estado Plurinacional de Bolivia - CTIC-EPB, conforme al Reglamento aprobado mediante el Decreto Supremo N° 1793. Estos estándares son esenciales para la interoperabilidad, la calidad técnica y la sostenibilidad de los sistemas de información del Estado.
+
+Las entidades públicas deben utilizar software libre y herramientas compatibles con estándares abiertos en todas las etapas del desarrollo, incluyendo lenguajes de programación, librerías, bases de datos y entornos de trabajo. Además, deben adoptar estándares para interfaces, servicios web y formatos de datos, asegurando que el software sea adaptable y reutilizable.
+
+4.2 REPOSITORIO ESTATAL DE SOFTWARE LIBRE
+
+El Repositorio Estatal de Software Libre (RESL), establecido por el Decreto Supremo N° 1793, es una herramienta para promover el desarrollo colaborativo de software en el Estado Plurinacional de Bolivia.
+
+Las entidades públicas deben proporcionar documentación detallada que incluya manuales de uso, instalación y administración para facilitar el mantenimiento y la evolución del software. El CTIC-EPB es responsable de establecer lineamientos que aseguren la accesibilidad y utilidad del contenido publicado en el RESL.
+
+4.3 COMPATIBILIDAD DE HARDWARE
+
+Para la implementación efectiva de software libre, todo hardware adquirido por las entidades públicas debe ser compatible con estándares abiertos, incluyendo controladores, protocolos de comunicación y formatos de datos. Según el Decreto Supremo N° 1793, la compatibilidad debe priorizarse para asegurar el funcionamiento adecuado del hardware y evitar la dependencia de sistemas propietarios. Los casos donde no existan soluciones compatibles, serán tratados en el marco del CTIC-EPB.
+
+4.4 SERVICIOS EN LA NUBE
+
+Conforme  a  lo  estipulado  en  el  Artículo  4  del  Reglamento  para  el  Desarrollo  de  Tecnologías  de Información y Comunicación aprobado mediante Decreto Supremo N° 1793, para alcanzar la soberanía tecnológica se debe permitir al Estado Plurinacional de Bolivia ejercer pleno control sobre las aplicaciones informáticas o software que utiliza, asegurando la independencia tecnológica del país y la seguridad informática del Estado.
+
+En este marco, y con el objetivo de avanzar hacia la soberanía tecnológica, las entidades públicas tienen restringido  el  almacenamiento  de  datos  “no  públicos”  del  Estado  en  servidores  ubicados  fuera  del territorio nacional. Todos los datos y contenidos “no públicos” del Estado deben ser almacenados dentro de la infraestructura tecnológica de las entidades públicas o mediante servicios en la nube operados por el Estado, siempre dentro del territorio nacional.
+
+En cuanto a los datos públicos, las entidades podrán utilizar plataformas abiertas, siempre que se mantengan respaldos locales en infraestructuras tecnológicas estatales que garanticen su accesibilidad y conservación.
+
+4.5 SEGURIDAD INFORMÁTICA
+
+En cumplimiento con el principio de seguridad informática establecido en la reglamentación del Decreto Supremo N° 1793, todo software adquirido, desarrollado o contratado debe incorporar medidas de seguridad desde la etapa de diseño y de manera predeterminada. Esta condición es aplicable a lo largo de todo el ciclo de vida del software, permitiendo identificar y mitigar de forma proactiva posibles vulnerabilidades que puedan comprometer la integridad, confidencialidad y disponibilidad de la información. 
+CAPÍTULO V. MODELO DE GESTIÓN DEL PISLEA
+
+El modelo de gestión del PISLEA establece un marco colaborativo y articulado para la implementación de software libre y estándares abiertos en el Estado Plurinacional de Bolivia.
+
+5.1 ESTRUCTURA DE GESTIÓN DEL PISLEA
+
+•	Nivel  Estratégico:  El  Comité  Plurinacional  de  Tecnologías  de  Información  y  Comunicación  – COPLUTIC vela por el cumplimiento del PISLEA, promoviendo políticas y normativas necesarias para su ejecución. Este nivel asegura la coherencia entre las estrategias nacionales y los lineamientos del plan.
+
+•	Nivel  Articulador:   La   Agencia   de   Gobierno   Electrónico   y  Tecnologías   de   Información   y Comunicación – AGETIC coordina, promueve y evalúa la implementación del PISLEA, asegurando el seguimiento de los  avances  y la correcta ejecución de las iniciativas designadas  a las entidades públicas del presente plan. También actúa como enlace entre los diferentes sectores involucrados.
+
+•    Nivel  Técnico:  El  Consejo  para  las  Tecnologías  de  Información  y  Comunicación  del  Estado
+Plurinacional de Bolivia – CTIC-EPB se enfoca en la adopción y desarrollo de estándares abiertos, la
+implementación  de  sistemas  de  software  libre  y  la  creación  de  espacios  de  colaboración  con comunidades de desarrollo.
+
+
+•	Nivel  de  Apoyo:  Las  áreas  de  planificación,  administración  y  jurídica,  según  la  estructura organizacional de cada entidad pública, apoyarán el cumplimiento del PISLEA institucional.
+
+5.2 ROLES
+
+Se establecen los siguientes roles y niveles de coordinación:
+
+Cuadro N° 1
+Roles del Plan de Implementación de Software Libre y Estándares Abiertos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 Personal: Las y los servidores públicos y las y los trabajadores de las entidades públicas. 
+5.3 PLAZOS DEL PROCESO DE IMPLEMENTACIÓN
+
+La migración a software libre y estándares abiertos en las entidades públicas deberá completarse hasta el
+31 de diciembre de 2028. Para ello, las entidades deberán establecer cronogramas específicos en sus
+PISLEA institucionales, detallando los siguientes procesos:
+
+a.      Migración en el uso de estándares abiertos.
+
+b.      Capacitación en software libre y estándares abiertos.
+
+c.      Migración del software de escritorio en los equipos de computación. d.      Migración de servidores físicos y virtuales.
+e.      Migración de sistemas, aplicaciones y servicios.
+
+El proceso de consolidación y optimización del proceso de migración se realizará desde el 1 de enero de
+2029 hasta el 12 de enero de 2030.
+
+5.4    PROCEDIMIENTO    DE    FORMULACIÓN    Y/O    ACTUALIZACIÓN    DEL    PISLEA INSTITUCIONAL
+
+Las entidades públicas deberán registrar la formulación y/o actualización de su PISLEA institucional en el
+Sistema de Registro y Seguimiento de Planes – SRSP, de acuerdo a lo siguiente:
+
+
+
+1.	La AGETIC, en un plazo de quince (15) días calendario a partir de la aprobación del presente plan, aprobará mediante Resolución Administrativa los contenidos mínimos que deben cumplir los PISLEA institucionales.
+
+2.	Las  entidades  públicas  en  un  plazo  máximo  de  sesenta  (60)  días  calendario,  de implementado el SRSP, deben registrar la formulación de su PISLEA institucional; posteriormente deben enviar las actualizaciones, cuando corresponda.
+
+3.	La AGETIC revisará cada plan institucional formulado y/o actualizado en un plazo máximo de quince  (15) días  hábiles  a partir de su  registro  en  el  SRSP y dará a  conocer sus observaciones, cuando corresponda.
+
+4.	Las entidades tendrán un plazo máximo de diez (10) días hábiles para ajustar sus planes en función a dichas observaciones.
+
+5.	A partir de la conformidad de la AGETIC, en un plazo máximo de diez (10) días hábiles el responsable de implementación de Software Libre y Estándares Abiertos de la entidad pública, aplicará el mecanismo de Aprobación de Documentos de Ciudadanía Digital al PISLEA institucional a través del SRSP, el cual generará un formato de impresión y un código identificador.
+
+6.	A partir de la aprobación con Ciudadanía Digital, la Máxima Autoridad Ejecutiva de la entidad pública, en un plazo no mayor a veinte (20) días hábiles, aprobará el PISLEA institucional mediante resolución expresa que debe hacer referencia al código identificador generado por el SRSP.
+
+7.	Una  vez  aprobado  el  PISLEA institucional  mediante  resolución  expresa,  en  un  plazo máximo de cinco (5) días hábiles el responsable de implementación de Software Libre y Estándares Abiertos de la entidad pública debe registrar en el SRSP dicho documento.
+
+8.	Una vez realizada la aprobación,  el plan institucional se constituirá en un documento oficial, sujeto a ejecución y seguimiento.
+
+9.	El PISLEA y su resolución de aprobación serán publicados en el portal habilitado por el CTIC-EPB para el efecto; con excepción de aquellos casos que sean declarados confidenciales en la resolución de aprobación. 
+CAPÍTULO VI. EJES ESTRATÉGICOS
+
+6.1 EJE ESTRATÉGICO 1: SOBERANÍA TECNOLÓGICA
+
+El Estado Plurinacional de Bolivia debe tener pleno control sobre el software que utiliza, en el marco de la soberanía tecnológica del país.
+
+6.1.1 Línea Estratégica 1: Proceso de implementación de software libre y estándares abiertos
+
+Se  establecen  mecanismos  que  tienen  como  objetivos  la  formulación,  actualización,  validación  y seguimiento de los PISLEA institucionales.
+
+Programa 1: Formulación y/o actualización de los PISLEA institucionales de las entidades públicas
+
+Se enfoca en la formulación y/o actualización de los PISLEA institucionales como un paso fundamental para la implementación del software libre y estándares abiertos en las entidades públicas.
+
+Objetivo
+
+Formular y/o actualizar el PISLEA institucional de las entidades públicas.
+
+Lineamientos generales
+
+•       Relevamiento interno de información necesaria para la formulación y/o actualización de los
+PISLEA institucionales.
+
+•       Registro de la formulación y/o actualización de los PISLEA institucionales en el SRSP.
+
+Resultados
+
+PISLEA institucionales formulados y/o actualizados, registrados en el SRSP.
+
+Programa 2: Validación de los PISLEA institucionales de las entidades públicas
+
+Está  orientada  a  la  validación  de  los  PISLEA  institucionales  formulados  y/o  actualizados,  como mecanismo para controlar el registro correcto de la información para la implementación.
+
+Objetivo
+
+Validar que los PISLEA institucionales formulados y/o actualizados registren información correcta.
+
+
+
+Lineamientos Generales
+
+•	Revisión  de los  PISLEA institucionales  formulados  y/o  actualizados  por las  entidades públicas.
+
+•       Registro de las observaciones identificadas en la validación de los PISLEA institucionales.
+
+Resultados
+
+PISLEA institucionales validados.
+
+Programa 3: Reporte de avance en la ejecución de los PISLEA institucionales de las entidades públicas Establece el mecanismo para que las entidades reporten el avance de los PISLEA institucionales. Objetivo
+Reportar el avance de los PISLEA institucionales de las entidades públicas.
+
+Lineamientos Generales 
+•       Relevamiento interno de información relacionada al avance en la ejecución de sus PISLEA
+institucionales.
+
+•       Registro del avance en la ejecución del PISLEA institucional.
+
+Resultados
+
+Reportes de avance de los PISLEA institucionales.
+
+Programa 4: Seguimiento de los PISLEA institucionales
+
+Tiene como propósito realizar el seguimiento al progreso en la ejecución de los PISLEA institucionales en las entidades públicas.
+
+Objetivo
+
+Realizar el seguimiento al avance en la ejecución de los PISLEA institucionales de las entidades públicas.
+
+Lineamientos Generales
+
+•	Revisión  de  la  información  de  avance  en  la  ejecución  de  los  PISLEA  institucionales reportada a través del SRSP por las entidades públicas.
+
+•       Elaboración de informe de avance en la ejecución de los PISLEA institucionales.
+
+Resultados
+
+Informe anual de seguimiento al progreso en la ejecución de los PISLEA institucionales.
+
+6.2 EJE ESTRATÉGICO 2: FORMACIÓN, INNOVACIÓN Y PROMOCIÓN
+
+Se enfoca en el fortalecimiento del conocimiento y las capacidades técnicas, fomentando la innovación y promoviendo el uso de tecnologías libres como pilares para impulsar la soberanía tecnológica.
+
+6.2.1. Línea Estratégica 2: Formación de capacidades
+
+Busca  desarrollar  el  talento  humano  mediante  la  capacitación  técnica  del  personal  de  las  entidades públicas, la formación en el Sistema Educativo Plurinacional (SEP) en los niveles que corresponda, el fortalecimiento de la educación superior y de posgrado en áreas de tecnología.
+
+Programa 5: Capacitación al personal
+
+La transición de los sistemas informáticos de las entidades públicas a software libre y estándares abiertos requiere una preparación y capacitación adecuada del personal de las entidades públicas, involucrado directamente en este proceso.
+
+Objetivo
+
+Fortalecer las capacidades técnicas y operativas del personal de las entidades públicas en el manejo básico y especializado de software libre y estándares abiertos.
+
+Lineamientos generales
+
+•	Diseño de planes de estudio, modalidades de atención  y material formativo según las necesidades funcionales del personal de las entidades públicas.
+
+•       Capacitación al personal de las áreas de informática y de soporte tecnológico.
+
+•       Capacitación al resto personal de las entidades públicas, según sus necesidades funcionales.
+Resultados
+
+Personal capacitado en software libre y estándares abiertos. 
+Programa 6: Formación en el Sistema Educativo Plurinacional (SEP) según los niveles que corresponda y para maestras y maestros en las áreas de tecnología
+
+Implementación  de  procesos  de  formación  en  software  libre  y  estándares  abiertos  para  maestras  y maestros en las áreas de tecnología, según los niveles educativos correspondientes del SEP.
+
+Objetivos
+
+Ejecutar procesos de formación en software libre y estándares abiertos en el Sistema Educativo Plurinacional  (SEP)  para  los  niveles  que  corresponda  y  para  maestras  y  maestros  en  las  áreas  de tecnología
+
+Lineamientos Generales
+
+•	Diseño de contenidos formativos en software libre y estándares abiertos en las Escuelas Superiores de Formación de Maestros, así como para maestras y maestros en servicio de las áreas de tecnología.
+
+•	Actualización  de contenidos  y programas  en  software libre  y estándares  abiertos  para estudiantes de primero de secundaria del SEP.
+
+•	Ejecución de los programas de formación en software libre y estándares abiertos descritos precedentemente.
+
+Resultados
+
+•	Maestras y maestros de las áreas de tecnología con formación en software libre y estándares abiertos.
+
+•	Estudiantes de primero de secundaria del SEP que recibieron conocimientos en software libre y estándares abiertos.
+
+Programa 7: Formación superior técnica, tecnológica y enseñanza de software de oficina de código abierto
+
+Se orienta a:
+
+•	Formar profesionales de nivel técnico medio y superior con competencias en software libre y estándares abiertos.
+
+•       La enseñanza de paquetes de software de oficina de código abierto (ofimática).
+
+Objetivo
+
+Formar profesionales técnicos de áreas tecnológicas con competencias en software libre y estándares abiertos, a nivel técnico medio y superior, a fin de contar con especialistas cualificados en esta área y brindar enseñanza en paquetes de software de oficina de código abierto (ofimática).
+
+Lineamientos generales
+
+•	Promover  en  los  institutos  técnicos  tecnológicos,  tanto  públicos  como  privados,  la ampliación de su oferta formativa, tomando contenidos relacionados al desarrollo de tecnológicas en software libre y estándares abiertos.
+
+•	Impulsar la suscripción de convenios para prácticas profesionales entre institutos técnicos tecnológicos  y  las  entidades  públicas  y  privadas  para  consolidar  la  formación  en  el desarrollo de tecnológicas en software libre y estándares abiertos.
+
+•	Impulsar que los institutos técnicos de enseñanza en herramientas informáticas incluyan la enseñanza de paquetes de software de oficina de código abierto (ofimática).
+
+Resultados
+
+•	Programas  formativos  a  nivel  técnico  medio   y  superior  orientados  hacia  perfiles profesionales con competencias en software libre y estándares abiertos. 
+•       Cursos  técnicos  con  contenidos  de paquetes de software de oficina de código  abierto
+(ofimática).
+
+Programa 8: Formación post grado
+
+Es  necesario  impulsar  el  desarrollo  tecnológico  en  el  Estado,  implementando  programas  de especialización profesional en software libre y estándares abiertos.
+
+Objetivo
+
+Formar profesionales especializados en tecnología de software libre y estándares abiertos.
+
+
+
+Lineamientos Generales
+
+•	Identificación de áreas potenciales para el desarrollo económico y social del país en los cuales se pueda implementar programas de post grado de especialización en software libre y estándares abiertos.
+
+•	Diseño  de  planes  de  estudio,  modalidades  de  atención  y  material  formativo  para  los programas de post grado relacionados a software libre y estándares abiertos.
+
+•	Promover  que  los  centros  de  investigación  universitarios  desarrollen  programas  de investigación aplicada para el desarrollo económico y social del país basados en software libre y estándares abiertos.
+
+Resultados
+
+Programas formativos a nivel de post grado especializados en competencias relacionadas en software libre y estándares abiertos.
+
+6.2.2 Línea Estratégica 3: Gestión de la innovación
+
+Se orienta a que las  entidades públicas desarrollen tecnología mediante procesos de investigación e innovación con software libre y estándares abiertos.
+
+Programa 9: Innovación, investigación y desarrollo
+
+Establece  las  condiciones  para  el  desarrollo  de  tecnología  mediante  procesos  de  investigación  e innovación.
+
+Objetivo
+
+Crear conocimientos y tecnologías libres mediante enfoques de investigación e innovación.
+
+Lineamientos Generales
+
+•       Generación de líneas de investigación aplicando software libre publicadas en el CTIC-EPB.
+
+•       Aperturar espacios de intercambio de conocimiento libre.
+
+•	Organización  de  eventos  tecnológicos  para  promover  innovaciones  tecnológicas  que beneficien al Estado y la población.
+
+Resultados
+
+Líneas de investigación aplicando software libre articuladas con las necesidades del Estado.
+
+Programa 10: Fortalecimiento en el uso del Repositorio Estatal de Software Libre 
+El Plan de Implementación de Software Libre y Estándares Abiertos incluye actividades para promover el Repositorio Estatal de Software Libre, con el fin de fortalecer la participación de las entidades públicas y asegurar el ciclo de vida de los proyectos, generando y conectando comunidades de desarrollo de software libre, fomentando la mejora y actualización continua de los proyectos.
+
+Objetivo
+
+Posicionar el Repositorio Estatal de Software Libre como la plataforma centralizada para el desarrollo, mantenimiento, distribución  y adopción de software libre en las entidades públicas, promoviendo la colaboración y la innovación tecnológica.
+
+Lineamientos Generales
+
+•	Organizar talleres y seminarios con desarrolladores de software para fomentar una cultura de colaboración a través de la creación de comunidades que gestionen el mantenimiento y desarrollo del software en el Repositorio Estatal de Software Libre, promoviendo principalmente la participación del Estado.
+
+•	Establecer canales de comunicación para difundir los proyectos tecnológicos generados y almacenados en el Repositorio Estatal de Software Libre.
+
+•	Coordinar con el CTIC-EPB, la implementación de políticas y lineamientos de desarrollo de software para garantizar la calidad técnica y documental de los proyectos de software de las entidades públicas.
+
+Resultados
+
+•       Las entidades públicas cuentan con soluciones informáticas adaptadas a sus necesidades.
+
+•	Los sistemas desarrollados por el Estado cuentan con comunidades activas de desarrollo y actualización.
+
+
+
+6.2.3 Línea Estratégica 4: Promoción de tecnologías libres
+
+Es fundamental desarrollar una estrategia comunicacional para que la sociedad amplíe el conocimiento y la comprensión sobre el software libre, los estándares abiertos y el desarrollo tecnológico.
+
+Programa 11: Promoción, sensibilización, difusión y comunicación
+
+Se enfoca en promover, sensibilizar y difundir el uso de software libre y estándares abiertos, mediante estrategias de comunicación que impulsen su adopción y comprensión en la sociedad.
+
+Objetivo:
+
+Desarrollar estrategias de sensibilización, difusión y comunicación dirigidas a la sociedad civil en general, con el propósito de fomentar la apropiación del software libre y estándares abiertos.
+
+Lineamientos generales
+
+•	Desarrollar campañas de información y sensibilización sobre el software libre y estándares abiertos y su implementación en el Estado.
+
+•       Desarrollo de estrategias de difusión del Plan de Implementación de Software Libre y
+Estándares Abiertos, a través de diferentes canales y/o medios de comunicación masiva
+
+Resultados
+
+Estrategia de sensibilización, difusión y comunicación con respecto a la adopción de software libre y estándares abiertos. 
+6.3 EJE ESTRATÉGICO 3: GESTIÓN DEL CAMBIO
+
+Establece  las  condiciones  necesarias  para  apoyar  a  las  entidades  públicas  durante  el  proceso  de implementación.
+
+6.3.1 Línea Estratégica 5: Soporte y acompañamiento
+
+Se brindará soporte técnico apoyando el proceso de implementación de Software Libre y Estándares
+Abiertos en las entidades públicas.
+
+
+Programa 12: Soporte técnico al proceso de implementación
+
+Objetivo
+
+Brindar soporte técnico a las entidades públicas durante el proceso de implementación.
+
+Lineamientos Generales
+
+El soporte técnico lo realizará la AGETIC.
+
+Resultados
+
+Servicio de atención de soporte técnico para las entidades públicas que coadyuve a la migración de los sistemas a software libre.
+
+6.3.2 Línea Estratégica 6: Evaluación
+
+Programa 13: Evaluación final del Plan de Implementación de Software Libre y Estándares Abiertos
+
+A través de la evaluación final del Plan de Implementación de Software Libre y Estándares Abiertos se determinará el grado de ejecución de lo programado en los planes institucionales y de la implementación de los programas enfocados en la formación del ecosistema de desarrollo de software libre y estándares abiertos.
+
+Objetivo
+
+Conocer los resultados finales alcanzados en la implementación del software libre y estándares abiertos.
+
+Lineamientos Generales
+
+•	Revisión  de  la  información  de  avance  en  la  ejecución  de  los  PISLEA  institucionales reportada a través del SRSP por las entidades públicas.
+
+•       Análisis de la información de avance reportada y elaboración de informe consolidado.
+
+•       Evaluación de los alcances de la implementación del Plan Software Libre y Estándares
+Abiertos.
+
+•	Establecimiento de los resultados, los problemas presentados y las necesidades que hayan surgido durante el tiempo de implementación del plan.
+
+
+
+Resultados
+
+Estado de situación estableciendo las fortalezas y debilidades del Plan que permitieron o dificultaron el alcance de los objetivos planteados, según los indicadores establecidos.
+
+•       Informe final de evaluación al proceso de implementación del PISLEA. 
+
+
+
+
+CAPÍTULO VII. METAS
+
+El Plan de Implementación de Software Libre y Estándares Abiertos establece metas al 2030 para avanzar en la independencia y soberanía tecnológica.
+
+Cuadro N° 2
+Metas del Plan de Implementación de Software Libre y Estándares Abiertos
+
+EJES ESTRATÉGICOS	LÍNEAS ESTRATÉGICAS	METAS 2030
+
+SOBERANÍA TECNOLÓGICA	Proceso de implementación de software libre y
+estándares abiertos	100% de los sistemas de las entidades públicas
+se encuentran implementados en Software Libre, excepto aquellos identificados en la norma.
+		1 informe por año de seguimiento y evaluación
+del PISLEA.
+
+FORMACIÓN, INNOVACIÓN Y PROMOCIÓN	
+Formación de capacidades	100% de las entidades públicas promovieron la
+capacitación   en   el   uso   de   herramientas
+informáticas basados en software libre y estándares abiertos de acuerdo a la necesidad de sus funciones
+		100%   de   los   estudiantes   de   primero   de
+secundaria, reciben conocimientos relacionados al software libre y estándares abiertos
+		70% de maestros y maestras del SEP de las
+áreas  tecnológicas,  certificados  por  el Ministerio de Educación en el manejo de software libre y estándares abiertos
+		3%  de  incremento  anual  de  programas  de
+formación     superior     técnica     tecnológica, relacionados con software libre y estándares
+abiertos
+		70%   de   los   institutos   técnicos   enseñan
+herramientas informáticas de paquetes de software de oficina de código abierto (ofimática).
+		10 programas de formación a nivel posgrado
+en  el  uso  de  software  libre  y  estándares abiertos aprobados.
+	Gestión de la innovación	3 líneas de investigación publicadas a través del
+CTIC-EPB.
+	Promoción de tecnologías libres	1   estrategia   de   comunicación   diseñada   e
+implementada a través de difusión dirigida a la sociedad, respecto a los beneficios del software libre y estándares abiertos.
+
+GESTIÓN DEL CAMBIO	Soporte y acompañamiento	100%   de   las   solicitudes   de   soporte   y
+acompañamiento en el proceso de migración
+fueron atendidas por la AGETIC.
+	Evaluación	1 informe de evaluación final del PISLEA (2025
+– 2030).
+
+
